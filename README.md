@@ -91,4 +91,4 @@ I'm a passionate Computer Science and Finance with a love for fintech, software 
 
 ## 📜 License
 
-This repository is licensed under the MIT License. See the MIT License file for more information.
+This repository is licensed under the MIT License. See the [MIT License](https://github.com/taha-malik27/taha-malik27/blob/1575ba19719d80be7a0a69f712b54b6eee465f70/LICENSE) file for more information.
