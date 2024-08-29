@@ -45,7 +45,7 @@ I'm a passionate Computer Science and Finance with a love for fintech, software 
 
 
 ### American Eagle Outfitters - Sales Ambassador 
-**Duration:** May 2023- Present  
+**Duration:** May 2023 - Present  
 **Description:** 
   - Ensured the organization of store stock, allowing a more effortless experience for customers and creating more efficiency during store inventory
   - Displayed exceptional communication and customer service skills with customers, resulting in higher amounts of sales and satisfied customers
@@ -58,13 +58,15 @@ I'm a passionate Computer Science and Finance with a love for fintech, software 
 
 ### Data Science and Machine Learning Club - Vice President of Outreach 
 **Duration:**  Nov 2023 - Present
-**Description:**: 
+
+**Description:**
   - Coordinated the annual competition, securing participation from industry leaders like ARC Resources and Tacit Edge, boosting club prestige and networking opportunities
   - Developed and executed targeted social media campaigns on LinkedIn, Instagram, and Discord, significantly increasing engagement and event participation
   - Managed club finances and fostered partnerships, securing funding and sponsorships that supported critical club operations and events
 
 ### Mechatronics Integration of Neural Dynamics (MIND) - Co-founder and Senior Vice President
 **Duration:**  Feb 2024 - Present
+
 **Description:** 
   - Initialized the club’s financials and secured vital funding of $2000 from the Faculty of Engineering to support brain-computer interface research and development
   - Created marketing material and established targeted social media campaigns to promote the club’s mission across multiple platforms, increasing awareness and following of the club by 300% in 3 months
@@ -76,7 +78,9 @@ I'm a passionate Computer Science and Finance with a love for fintech, software 
 
 ### Bachelors of Computer Science & Bachelors of Finance - University of Calgary
 **Duration:** Sept 2023 - April 2028 (Expected)
+
 **Cumulative GPA:** 3.95
+
 **Coursework:** Python, Java, JavaFX, Object Oriented Programming, Data Structures and Algorithms, Accounting, Financial and Data Analysis
 
 ---
