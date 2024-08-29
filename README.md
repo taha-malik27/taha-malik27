@@ -89,6 +89,11 @@ I'm a passionate Computer Science and Finance with a love for fintech, software 
 
 ---
 
-## 📜 License
 
-This repository is licensed under the MIT License. See the [MIT License](https://github.com/taha-malik27/taha-malik27/blob/1575ba19719d80be7a0a69f712b54b6eee465f70/LICENSE) file for more information.
+## 📜 Acknowledgements and License
+
+I would like to thank [Ileriayo Adebiyi](https://github.com/Ileriayo) for providing the badges used in this repository. These assets are licensed under the MIT License, as provided in the [original repository](https://github.com/Ileriayo/markdown-badges).
+
+The original license text can be found [here](https://github.com/Ileriayo/markdown-badges?tab=MIT-1-ov-file).
+
+This repository is also licensed under the MIT License. See the [MIT License](https://github.com/taha-malik27/taha-malik27/blob/1575ba19719d80be7a0a69f712b54b6eee465f70/LICENSE) file for more information.
