@@ -4,10 +4,10 @@
 
 I'm a passionate Computer Science and Finance with a love for fintech, software development, cybernetics and the exciting possibilities of neurotechnology, I'm eager to apply my learning in practical settings. My goal is to leverage my skills in both business and technology to contribute value to innovative projects and push the boundaries of technology.
 
-- 🌱 I’m currently learning Node.js and Django in order to build a movie database as my next project!
+- 🌱 I’m currently learning Node.js and MongoDB in order to build a movie database as my next project!
 - 👯 I’m looking to collaborate on anything fintech/algorithmic trading and neurotech (BCIs) too!
 - 📫 How to reach me fast: taha.malik2@ucalgary.ca
-- ⚡ Fun fact: I love nature, and summit mountains!
+- ⚡ Fun fact: I love nature and hike up mountains!
 
 ---
 
