@@ -1,112 +1,194 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile!
 
-### Hi there, I'm Taha!
+### Hi there, I'm **Taha Malik**
 
-I'm a passionate Computer Science and Finance with a love for fintech, software development, cybernetics and the exciting possibilities of neurotechnology, I'm eager to apply my learning in practical settings. My goal is to leverage my skills in both business and technology to contribute value to innovative projects and push the boundaries of technology.
+I am a dual degree Computer Science and Finance student at the University of Calgary, passionate about fintech, software engineering, neurotechnology, and the intersection of business and technical innovation. I love building applications that tie engineering, analytics, and creativity together, ranging from algorithmic trading tools to real time EEG software and full scale web systems.
 
-- 👯 I’m looking to collaborate on anything fintech/algorithmic trading and neurotech (BCIs) too!
-- 📫 How to reach me fast: taha.malik2@ucalgary.ca
-- ⚡ Fun fact: I love nature and hike up mountains!
+I enjoy working on impactful technical projects, leading student organizations, and exploring the possibilities of human technology integration through neurotech.
+
+* 👯 Open to collaborating on fintech tools, algorithmic trading models, and BCI software
+* 📫 Fastest contact: **[taha.malik2@ucalgary.ca](mailto:taha.malik2@ucalgary.ca)**
+* ⚡ Fun fact: I love hiking and aim to summit increasingly challenging peaks
 
 ---
 
-## 🛠 Skills & Tools
+## 🧠 About Me
 
-### Programming Languages:
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+I bridge technical depth with financial insight.
+My background spans:
 
-### Frameworks & Libraries:
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-- <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-- <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-- <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+* Software engineering and full stack development
+* Financial modeling, portfolio optimization, and forecasting
+* Neurotechnology research and real time brain signal processing
+* Leadership and large scale student club operations
+* UI engineering, cloud systems, and automation
+* Teaching workshops and building technical communities
 
-### Tools & Platforms:
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-- ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-- <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
-- <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+I enjoy building polished, meaningful products that solve real problems.
+
+---
+
+## 🛠 Skills and Technologies
+
+Below is the **complete merged list** from your resumes and your website’s /skills page.
+
+### **Programming Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge\&logo=r\&logoColor=white) <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/armv8-%23000000.svg?style=for-the-badge"/>
+
+### **Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge\&logo=next.js)
+![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge\&logo=three.js)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge\&logo=javafx\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge\&logo=node.js\&logoColor=white) <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scipy-%23000000.svg?&style=for-the-badge&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/pyqt-%23000000.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/vispy-%23000000.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/shiny-%23525DDC.svg?&style=for-the-badge&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### **Technologies & Tools**
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=azure-devops\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/servicenow-black?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge\&logo=powerbi\&logoColor=black) <img src="https://img.shields.io/badge/dbeaver-%23009C3D.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/rstudio-%234285F4.svg?style=for-the-badge&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/excel-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/microsoft_365-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img src="https://img.shields.io/badge/BrainFlow-%23000000.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Matplotlib-%230076A8.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
+### **Technical Finance Skills**
+
+* Portfolio Optimization
+* CAPM, Beta Analysis, SML and CML
+* Financial Modeling (DCF, Comps, Projections)
+* WACC and Capital Budgeting
+* Sensitivity and Scenario Analysis
+* Regression and Time Series Forecasting
+
+### **Soft Skills**
+
+* Leadership and Team Collaboration
+* Strategic Thinking and Analytical Reasoning
+* Ethical Decision Making
+* Communication and Presentation
+* Organization, Detail-Oriented Work, and Accountability
+* Agile mindset and impact-driven execution
 
 ---
 
 ## 📂 Projects
 
-### SavorScope (https://github.com/taha-malik27/SavorScope)
-**Description:** SavorScope was my first project, and it's a dietary nutrition tracker I made for a class, using Java, JavaFX & Launch4J. The tracker is capable of taking, storing and displaying all of your meals and comes with a baseline caloric intake calculator and BMI calculator as well!
+### **🧠 MINDStream EEG Dashboard**
+
+**Repo:** [https://github.com/MINDUofC/MINDEEG](https://github.com/MINDUofC/MINDEEG)
+**Tech:** PyQt5, BrainFlow, Matplotlib, VisPy, NumPy
+
+* Built a real time EEG visualization system with multithreaded data acquisition, configurable channel enabling, and advanced filtering including bandpass, bandstop, and environmental noise removal.
+* Integrated GPU accelerated rendering with VisPy to achieve high frame rate multi channel plotting, improving clarity and responsiveness during experiments.
+* Developed a structured experiment workflow with trial timers, data logging, and data export, enabling efficient EEG testing for MIND’s research teams.
 
 ---
 
+### **🌐 iSolve Websites**
+
+**Repo:** [https://github.com/taha-malik27/ISolve](https://github.com/taha-malik27/ISolve)
+**Production:** [https://isolve.info/](https://isolve.info/)
+**Tech:** ReactJS, Tailwind CSS, JavaScript, Vercel
+
+* Built multiple production grade client websites with responsive layouts, reusable component systems, and mobile first Tailwind CSS design.
+* Improved UI performance using code splitting, lazy loading, and optimized asset delivery, reducing bounce rates and improving conversions.
+* Translated client requirements into polished frontend experiences, increasing online inquiries by 75 percent and improving client retention by 50 percent.
+
+---
+
+### **🖥️ Personal Portfolio Website**
+
+**Repo:** [https://github.com/taha-malik27/myPortfolioWebsite](https://github.com/taha-malik27/myPortfolioWebsite)
+**Site:** [https://tahamalik.ca](https://tahamalik.ca)
+**Tech:** Next.js, React, Three.js, Tailwind CSS, Vercel
+
+* Designed and developed a multi page personal portfolio featuring a fully interactive 3D room built with Three.js and optimized model rendering.
+* Implemented responsive React layouts, dynamic routing, animation optimizations, and fast load sequences to create a clean user experience.
+* Created detailed Work, About, Skills, and Contact sections that highlight software engineering, finance, and neurotech experience in a polished and professional format.
+
+---
 
 ## 💼 Work Experience
 
+### **Ovintiv – Software Development Intern**
 
+**Duration:** May 2025 to Dec 2025
 
-### American Eagle Outfitters - Sales Ambassador 
-**Duration:** May 2023 - Present  
-**Description:** 
-  - Ensured the organization of store stock, allowing a more effortless experience for customers and creating more efficiency during store inventory
-  - Displayed exceptional communication and customer service skills with customers, resulting in higher amounts of sales and satisfied customers
-  - Maintained professionalism during high-tension situations between coworkers and customers, mitigating potential conflicts without disruptions
-  - Efficiently handled transactions as a cashier, demonstrating accuracy and reliability in cash handling and processing payments
+* Developed and deployed an Emergency Response Plan application using ReactJS, Python, and Flask via Azure DevOps CI/CD, reducing reporting time by 35 percent.
+* Automated ServiceNow to Oracle access provisioning using Python, Azure App Services, and Azure Key Vault, reducing provisioning time by 40 percent.
+* Worked across cloud infrastructure, backend automation, and internal tooling to improve operational efficiency for field and corporate teams.
 
 ---
 
-## 🚀 Extracurriculars
+### **American Eagle Outfitters – Sales Ambassador**
 
-### Data Science and Machine Learning Club - Vice President of Outreach 
-**Duration:**  Nov 2023 - Present
+**Duration:** May 2023 to Sept 2025
 
-**Description:**
-  - Coordinated the annual competition, securing participation from industry leaders like ARC Resources and Tacit Edge, boosting club prestige and networking opportunities
-  - Developed and executed targeted social media campaigns on LinkedIn, Instagram, and Discord, significantly increasing engagement and event participation
-  - Managed club finances and fostered partnerships, securing funding and sponsorships that supported critical club operations and events
+* Optimized stock arrangement and floor setup to improve product visibility and speed up inventory processing.
+* Assisted 30 to 60 customers per shift while accurately processing 40 to 80 transactions each shift.
+* Delivered strong customer service, contributing to smoother store operations and higher conversion rates.
 
-### Mechatronics Integration of Neural Dynamics (MIND) - Co-founder and Senior Vice President
-**Duration:**  Feb 2024 - Present
+---
 
-**Description:** 
-  - Initialized the club’s financials and secured vital funding of $2000 from the Faculty of Engineering to support brain-computer interface research and development
-  - Created marketing material and established targeted social media campaigns to promote the club’s mission across multiple platforms, increasing awareness and following of the club by 300% in 3 months
-  - Orchestrated the recruitment and organization of specialized research and development teams, focusing on director roles within the electrical, mechanical, and software engineering teams
+### **Deloitte – Audit and Assurance Intern**
+
+**Duration:** Sept 2026 to Dec 2026
+
+* Incoming intern supporting financial audits, internal controls testing, and compliance reviews across diverse industry clients.
+
+---
+
+# 🚀 Extracurriculars
+
+### **Mechatronics Integration of Neural Dynamics (MIND) – Co Founder and Co President**
+
+**Duration:** Feb 2024 to Present
+
+* Secured over 8600 dollars in funding and built the club’s financial, outreach, and research foundations.
+* Recruited over 20 R and D members from 140 plus applicants and established the club’s EEG and BCI research pipeline.
+* Led projects such as NeuroDrive, MINDStream, Alpha Rhythm Detection, and Blink Detection, combining signal processing, hardware integration, and research coordination.
+
+---
+
+### **Data Science and Machine Learning Club (DSMLC) – Vice President of Outreach**
+
+**Duration:** Nov 2023 to April 2025
+
+* Built partnerships with 30 plus industry professionals and secured 5500 dollars in sponsorships.
+* Organized the club’s largest event with 150 plus attendees and 20 plus companies participating.
+* Delivered technical workshops on Python, SciPy, NumPy, and Visualization to support student learning and engagement.
 
 ---
 
 ## 🎓 Education
 
-### Bachelors of Computer Science & Bachelors of Finance - University of Calgary
-**Duration:** Sept 2023 - April 2028 (Expected)
+### **Bachelor of Commerce (Finance) & Bachelor of Computer Science**
 
-**Cumulative GPA:** 3.95
-
-**Coursework:** Python, Java, JavaFX, Object Oriented Programming, Data Structures and Algorithms, Accounting, Financial and Data Analysis
+**University of Calgary**
+**Duration:** Sept 2023 to Apr 2027 (Expected)
+**GPA:** 3.94
 
 ---
 
 ## 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/taha~malik/
-- Email: taha.malik2@ucalgary.ca
-  
+* **LinkedIn:** [https://www.linkedin.com/in/taha--malik/](https://www.linkedin.com/in/taha--malik/)
+* **Portfolio:** [https://tahamalik.ca](https://tahamalik.ca)
+* **Email:** [taha.malik2@ucalgary.ca](mailto:taha.malik2@ucalgary.ca)
 
 ---
 
-
 ## 📜 Acknowledgements and License
 
-I would like to thank [Ileriayo Adebiyi](https://github.com/Ileriayo) for providing the badges used in this repository. These assets are licensed under the MIT License, as provided in the [original repository](https://github.com/Ileriayo/markdown-badges).
+Badges by [Ileriayo Adebiyi](https://github.com/Ileriayo).
+Licensed under MIT.
 
-The original license text can be found [here](https://github.com/Ileriayo/markdown-badges?tab=MIT-1-ov-file).
 
-This repository is also licensed under the MIT License. See the [MIT License](https://github.com/taha-malik27/taha-malik27/blob/1575ba19719d80be7a0a69f712b54b6eee465f70/LICENSE) file for more information.
+
