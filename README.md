@@ -30,8 +30,6 @@ I enjoy building polished, meaningful products that solve real problems.
 
 ## 🛠 Skills and Technologies
 
-Below is the **complete merged list** from your resumes and your website’s /skills page.
-
 ### **Programming Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
